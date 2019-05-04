@@ -1,0 +1,10 @@
+/* Css For selectors */
+ul li{
+    color:red;
+}
+ol>li{
+    color:green;
+}
+li.myclass ~ li {
+    color:orange;
+}
